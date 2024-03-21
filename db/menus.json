@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Caesar Salad",
+        "description": "Fresh romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+        "price": 9.99,
+        "category": "appetizer"
+    },
+    {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "description": "Tomato sauce, mozzarella cheese, fresh basil leaves.",
+        "price": 12.99,
+        "category": "main course"
+    },
+    {
+        "id": 3,
+        "name": "Chocolate Brownie",
+        "description": "Warm chocolate brownie served with vanilla ice cream.",
+        "price": 6.99,
+        "category": "dessert"
+    }
+]

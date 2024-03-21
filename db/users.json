@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bobaitis",
+    "email": "bobasNaujas@example.com",
+    "password": "Naujaspassword123",
+    "id": 1,
+    "orders": []
+  },
+  {
+    "id": 2,
+    "name": "Rose",
+    "email": "rose@example.com",
+    "password": "password123",
+    "phoneNumber": "123-456-7890",
+    "address": "123 Main St, Anytown, USA",
+    "orders": []
+  },
+  {
+    "name": "Eva",
+    "email": "eva@example.com",
+    "password": "evospasswordas",
+    "id": 3
+  },
+  {
+    "name": "Petras",
+    "email": "petras@example.com",
+    "password": "petropasswordas",
+    "id": 4
+  },
+  {
+    "name": "BobaitisNew",
+    "email": "bobasNaujas@example.com",
+    "password": "Naujaspassword123",
+    "orders": [],
+    "id": 5
+  }
+]

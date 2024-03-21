@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "customerId": 1,
+        "items": [
+            { "menuItemId": "101", "quantity": 2 },
+            { "menuItemId": "105", "quantity": 1 }
+        ],
+        "status": "placed",
+        "orderTime": "2024-03-01"
+    },
+    {
+        "id": 2,
+        "customerId": 2,
+        "items": [
+            { "menuItemId": "103", "quantity": 1 }
+        ],
+        "status": "preparing",
+        "orderTime": "2024-03-01"
+    }
+]
